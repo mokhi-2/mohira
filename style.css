@@ -1,0 +1,60 @@
+
+.margin{
+    background-color:white ;
+    background-color: black;
+    width: 500px;
+    padding: 50px;
+    border: 2px dashed red;
+    margin:  0 auto
+  }
+  
+  .border{
+    background-color:wheat ;
+    padding: 50px;
+  }
+  
+  .content{
+    background-color:white ;
+    padding: 30px;
+    border: 2px dashed black;
+  }
+  
+  .padding{
+    background-color:orangered;
+    padding: 70px;
+  }
+  
+  
+  
+  
+  h1{
+      background-color: green;
+      color: white;
+      width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      margin: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
